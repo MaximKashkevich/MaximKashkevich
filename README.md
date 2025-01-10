@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Maxim, a freelance full-stack developer 👨‍💻 with 1 year of commercial experience and 2 years in software development 🚀. I build dynamic web applications 🌐 and love collaborating on innovative solutions 💡. Passionate about coding and the latest technologies ⚙️, I thrive on challenges 💪. Let's create something amazing together! 🤝✨</div>  
   
